@@ -25,7 +25,7 @@ Below is a complete list of all certificate I have earned on <a href="https://ww
 <h2>Beginner's Guide to IoT and Hardware Hacking</h2>
 <p>
 </p>
-Link: https://academy.tcm-sec.com/p/beginner-s-guide-to-iot-and-hardware-hacking <hf>
+Link: https://academy.tcm-sec.com/p/beginner-s-guide-to-iot-and-hardware-hacking <br>
 Certificate (PDF): https://github.com/TheFirewallDragon/TCM-Security-Academy-Certificates-PDF/blob/main/Beginner's%20Guide%20to%20IoT%20and%20Hardware%20Hacking.pdf
 
 <h2>Detection Engineering for Beginners</h2>
