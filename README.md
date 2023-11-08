@@ -87,14 +87,14 @@ Certificate (PDF): https://github.com/TheFirewallDragon/TCM-Security-Academy-Cer
 
 <h2>Practical Bug Bounty</h2>
 <p>
-
+The "Practical Bug Bounty" course, offered in collaboration between TCM Security and Intigriti, equips students with the skills required to become successful bug bounty hunters. This comprehensive course covers topics such as web application architecture, Web Application Security (including the OWASP Top 10), differentiating between bug bounty hunting and penetration testing, and using essential tools like Burp Suite. During this course, I explored advanced techniques for evading security measures, bypassing Web Application Firewalls (WAFs), and ethical reporting and responsible disclosure. The course concludes with guidance on selecting bug bounty programs, aiming to help students begin their journey in bug bounty hunting. Upon completion, I also received an invitation to apply to Intigriti's Bug Bounty Platform, potentially setting the stage for a career in bug bounty hunting.
 </p>
 Link: https://academy.tcm-sec.com/p/practical-bug-bounty <br>
 Certificate (PDF): https://github.com/TheFirewallDragon/TCM-Security-Academy-Certificates-PDF/blob/main/Practical%20Bug%20Bounty.pdf
 
 <h2>Practical Ethical Hacking - The Complete Course</h2>
 <p>
-The Practical Bug Bounty course, offered in collaboration between TCM Security and Intigriti, equips students with the skills required to become successful bug bounty hunters. This comprehensive course covers topics such as web application architecture, Web Application Security (including the OWASP Top 10), differentiating between bug bounty hunting and penetration testing, and using essential tools like Burp Suite. During this course, I explored advanced techniques for evading security measures, bypassing Web Application Firewalls (WAFs), and ethical reporting and responsible disclosure. The course concludes with guidance on selecting bug bounty programs, aiming to help students begin their journey in bug bounty hunting. Upon completion, I also received an invitation to apply to Intigriti's Bug Bounty Platform, potentially setting the stage for a career in bug bounty hunting.
+Completing the "Practical Ethical Hacking - The Complete Course" has given me up-to-date and practical hacking skills. I've learned about ethical hacking's day-to-day tasks, notekeeping, networking fundamentals, Linux, Python scripting, the hacker's methodology, reconnaissance, scanning, and exploitation. This course also covers advanced topics like Active Directory penetration testing, web application penetration testing, wireless attacks, legal documentation, report writing, and career advice.
 </p>
 Link: https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course <br>
 Certificate (PDF): https://github.com/TheFirewallDragon/TCM-Security-Academy-Certificates-PDF/blob/main/Practical%20Ethical%20Hacking%20-%20The%20Complete%20Course.pdf
