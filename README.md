@@ -59,54 +59,63 @@ Certificate (PDF): https://github.com/TheFirewallDragon/TCM-Security-Academy-Cer
 
 <h2>Mobile Application Penetration Testing</h2>
 <p>
+I completed the "Mobile Application Penetration Testing" course, which covers Android and iOS mobile application penetration testing. This comprehensive course is designed for those looking to establish a strong foundation in mobile app penetration testing, covering topics like the testing process, lab setup, manual and automated analysis, SSL pinning bypass, understanding OWASP Top Ten for Mobile, and iOS device jailbreaking. The course provides practical insights and hands-on experience to identify vulnerabilities in mobile apps effectively, making it an essential resource for my cybersecurity journey, especially if I choose a path related to mobile pentesting.
 </p>
 Link: https://academy.tcm-sec.com/p/mobile-application-penetration-testing <br>
 Certificate (PDF): https://github.com/TheFirewallDragon/TCM-Security-Academy-Certificates-PDF/blob/main/Mobile%20Application%20Penetration%20Testing.pdf
 
 <h2>Movement, Pivoting and Persistence</h2>
 <p>
+The "Movement, Pivoting, and Persistence" course offers advanced insights for penetration testers and ethical hackers, or aspiring ones such as myself. Covering topics like username and password list generation, password spraying, email phishing, command and control, credential harvesting, routing, port forwarding, SOCKS proxies, and more, the course assumes a basic to intermediate understanding of penetration testing tools and techniques. With real-world experiences, it helps learners gain advanced hacking skills applicable to professional pentesting certifications. Students receive exclusive Discord support, a custom Kali Linux distribution, and a course completion certificate. Don't miss this limited-time offer for lifetime access at $29.99.
 </p>
 Link: https://academy.tcm-sec.com/p/movement-pivoting-and-persistence-for-pentesters-and-ethical-hackers <br>
 Certificate (PDF): https://github.com/TheFirewallDragon/TCM-Security-Academy-Certificates-PDF/blob/main/Movement%2C%20Pivoting%20and%20Persistence.pdf
 
 <h2>Open-Source Intelligence (OSINT) Fundamentals</h2>
 <p>
+I successfully completed the "Open-Source Intelligence (OSINT) Fundamentals" course, and it proved to be valuable. It offered a comprehensive understanding of OSINT techniques, including note-taking, creating sock puppet accounts, conducting advanced search engine OSINT, image and email address OSINT, hunting breached data, and various people and social media OSINT strategies. The course also emphasized report writing for professional communication. This experience has greatly improved my investigative skills, research methodology, and personal online security, making it an excellent choice for anyone seeking to enhance their OSINT capabilities.
 </p>
 Link: https://academy.tcm-sec.com/p/osint-fundamentals <br>
 Certificate (PDF): https://github.com/TheFirewallDragon/TCM-Security-Academy-Certificates-PDF/blob/main/Open-Source%20Intelligence%20(OSINT)%20Fundamentals.pdf
 
 <h2>Practical API Hacking</h2>
 <p>
+I have successfully completed the "Practical API Hacking" course, and it was a valuable experience. The curriculum covered fundamental aspects of APIs (Application Programming Interfaces), their security, and the practical usage of tools like Burp Suite, Postman, and Docker. I learned how to interact with APIs, enumerate API endpoints, and identify and exploit common vulnerabilities found in API-driven applications. The hands-on labs and challenges provided practical experience, enhancing my understanding of the subject. Overall, this course has equipped me with the knowledge and skills needed to effectively hack APIs and discover vulnerabilities in modern applications.
 </p>
 Link: https://academy.tcm-sec.com/p/hacking-apis <br>
 Certificate (PDF): https://github.com/TheFirewallDragon/TCM-Security-Academy-Certificates-PDF/blob/main/Practical%20API%20Hacking.pdf
 
 <h2>Practical Bug Bounty</h2>
 <p>
+
 </p>
 Link: https://academy.tcm-sec.com/p/practical-bug-bounty <br>
 Certificate (PDF): https://github.com/TheFirewallDragon/TCM-Security-Academy-Certificates-PDF/blob/main/Practical%20Bug%20Bounty.pdf
 
 <h2>Practical Ethical Hacking - The Complete Course</h2>
 <p>
+The Practical Bug Bounty course, offered in collaboration between TCM Security and Intigriti, equips students with the skills required to become successful bug bounty hunters. This comprehensive course covers topics such as web application architecture, Web Application Security (including the OWASP Top 10), differentiating between bug bounty hunting and penetration testing, and using essential tools like Burp Suite. During this course, I explored advanced techniques for evading security measures, bypassing Web Application Firewalls (WAFs), and ethical reporting and responsible disclosure. The course concludes with guidance on selecting bug bounty programs, aiming to help students begin their journey in bug bounty hunting. Upon completion, I also received an invitation to apply to Intigriti's Bug Bounty Platform, potentially setting the stage for a career in bug bounty hunting.
 </p>
 Link: https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course <br>
 Certificate (PDF): https://github.com/TheFirewallDragon/TCM-Security-Academy-Certificates-PDF/blob/main/Practical%20Ethical%20Hacking%20-%20The%20Complete%20Course.pdf
 
 <h2>Practical Malware Analysis & Triage</h2>
 <p>
+I completed the "Practical Malware Analysis & Triage" course and it has been valuable for my skillset. It offers hands-on labs and practical exercises that help you set up a safe and controlled malware analysis environment. It covers the essentials of static and dynamic analysis, advanced techniques, anti-analysis measures, and various malware types, including mobile malware and even Go-written malicious code. One of the highlights is the automation and reporting section, which allows you to streamline your analysis process and effectively communicate your findings. Overall, this course equiped me with skills, knowledge and confidence to tackle real-world malware samples and contribute to the fight against cyber threats. I highly recommend it to anyone looking to enhance their understanding of cybersecurity.
 </p>
 Link: https://academy.tcm-sec.com/p/practical-malware-analysis-triage <br>
 Certificate (PDF): https://github.com/TheFirewallDragon/TCM-Security-Academy-Certificates-PDF/blob/main/Practical%20Malware%20Analysis%20%26%20Triage.pdf
 
 <h2>Python 101 for Hackers</h2>
 <p>
+I've successfully completed the "Python 101 for Hackers" course, which has provided me with a solid foundation in Python programming tailored for hacking purposes. This course is perfect for both beginners and those with some programming experience, as it covers the essentials of Python, including variables, data types, operators, and loops, while also focusing on practical hacking applications. I've learned about Python2 and Python3 distinctions, set up my environment in Kali Linux, and acquired hands-on experience in tasks like SSH brute forcing, password cracking, web login form attacks, and SQL injection exploitation.
 </p>
 Link: https://academy.tcm-sec.com/p/python-101-for-hackers <br>
 Certificate (PDF): https://github.com/TheFirewallDragon/TCM-Security-Academy-Certificates-PDF/blob/main/Python%20101%20For%20Hackers.pdf
 
 <h2>Python 201 for Hackers</h2>
 <p>
+I've successfully completed the "Python 201 for Hackers" course, which builds on the foundation of the previous "Python 101 for Hackers." In this advanced course, I've gained a better understanding of Object Oriented Programming (OOP) concepts and their implementation in Python, including classes, inheritance, encapsulation, polymorphism, and operator overloading. I've also learned to work with lower-level languages like C and assembly to interface with the Windows API and perform tasks like web scraping, port scanning, threading, cryptography, and process creation. This knowledge has empowered me to develop practical Windows hacking applications such as keyloggers, encrypted bind shells, and process injectors. Additionally, I've learned to extend the capabilities of Burp, create custom extensions, and perform tasks like direct DLL injection into remote Windows processes.
 </p>
 Link: https://academy.tcm-sec.com/p/python-201-for-hackers <br>
 Certificate (PDF): https://github.com/TheFirewallDragon/TCM-Security-Academy-Certificates-PDF/blob/main/Python%20201%20For%20Hackers.pdf
