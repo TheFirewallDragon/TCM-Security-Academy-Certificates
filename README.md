@@ -1,4 +1,4 @@
-<h1>TCM-Security-Academy-Certificates</h1>
+<h1>TCM Security Academy Certificates</h1>
 <p>
 Below is a complete list of all certificate I have earned on <a href="https://www.codecademy.com/">TCM Security Academy</a>, totaling 17 so far. I also wrote consice resumes explaining the value I gained from each course. 
 </p> 
