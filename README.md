@@ -122,18 +122,21 @@ Certificate (PDF): https://github.com/TheFirewallDragon/TCM-Security-Academy-Cer
 
 <h2>Rust 101</h2>
 <p>
+I have successfully completed the "Rust 101" course, a comprehensive introduction to the Rust programming language. I've gained a solid understanding of Rust's core concepts, including primitives, variables, functions, error handling, memory management, ownership, and more. Throughout the course, I've learned the key differences between Rust and other programming languages, how to write basic and complex programs in Rust, and effectively manage memory and ownership in Rust.
 </p>
 Link: https://academy.tcm-sec.com/p/rust-101 <br>
 Certificate (PDF): https://github.com/TheFirewallDragon/TCM-Security-Academy-Certificates-PDF/blob/main/Rust%20101.pdf
 
 <h2>The Definitive GRC Analyst Master Class</h2>
 <p>
+I have completed the "GRC Analyst Master Class," a comprehensive course designed for those interested in pursuing a career as a Governance, Risk, and Compliance (GRC) Analyst in the cybersecurity field. This course offers a well-rounded understanding and practical skills required for the role, covering topics such as IT fundamentals, GRC in the context of information security, compliance and audit work, security awareness, cybersecurity risk assessment, governance, and how to secure a job as a GRC Analyst. The course is delivered through a mix of lecture-style videos and live streams, providing valuable insights and knowledge needed for success in this role. The course is instructed by Dr. Gerald Auger, a seasoned cybersecurity professional.
 </p>
 Link: https://academy.tcm-sec.com/p/grc <br>
 Certificate (PDF): https://github.com/TheFirewallDragon/TCM-Security-Academy-Certificates-PDF/blob/main/The%20Definitive%20GRC%20Analyst%20Master%20Class.pdf
 
 <h2>Windows Privilege Escalation for Beginners</h2>
 <p>
+"Windows Privilege Escalation for Beginners" is a comprehensive course for individuals aiming to master privilege escalation on Windows systems. The course covers manual and tool-based system enumeration, various privilege escalation techniques, and offers hands-on experience with 13 vulnerable machines and a challenging capstone challenge.
 </p>
 Link: https://academy.tcm-sec.com/p/windows-privilege-escalation-for-beginners <br>
 Certificate (PDF): https://github.com/TheFirewallDragon/TCM-Security-Academy-Certificates-PDF/blob/main/Windows%20Privilege%20Escalation%20for%20Beginners.pdf
